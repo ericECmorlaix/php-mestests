@@ -1,0 +1,1 @@
+console.log('Salut, Toto est dans la place');
